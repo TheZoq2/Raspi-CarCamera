@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/frans/Documents/cpp/car/camera/Servo.cpp
+Servo.h
+/home/frans/Documents/cpp/car/camera/Servo.h
+
+/home/frans/Documents/cpp/car/camera/Servo.h
+iostream
+-
+string
+-
+stdio.h
+-
+stdlib.h
+-
+
